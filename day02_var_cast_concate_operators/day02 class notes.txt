@@ -1,0 +1,37 @@
+Python Programming Day02
+
+Topics: Variables
+		Casting
+		String Concatenation
+		Operators:
+				Arithmetic
+				Shorthand
+				Relational
+				Logical
+				Membership
+
+Pakcage name: day02_var_cast_concate_operators
+
+
+Remainder: numerator - (denominator * integer result)
+		   
+		   10 / 3 = 3.333....
+
+	   remainder = 10 - (3 *3) = 1
+
+	   		10 / 4 = 2.5
+
+   	   remainder = 10 - (4 * 2) = 2
+
+   	   		20 / 6 = 3.3333
+
+   		remainder: 20 - (6 *3) = 2
+
+
+
+   		remainder = 20 % 6 ===> 2
+
+
+
+
+
